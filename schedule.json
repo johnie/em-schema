@@ -1,0 +1,250 @@
+{
+  "schedule": [
+    {
+      "date": "2024-06-22",
+      "round": "2",
+      "matches": [
+        {
+          "time": "15:00",
+          "channel": "TV4",
+          "teams": "Georgien – Tjeckien"
+        },
+        {
+          "time": "18:00",
+          "channel": "TV4",
+          "teams": "Turkiet – Portugal"
+        },
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Belgien – Rumänien"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-23",
+      "round": "3",
+      "matches": [
+        {
+          "time": "21:00",
+          "channel": "SVT1",
+          "teams": "Schweiz – Tyskland",
+          "start_time": "20:00"
+        },
+        {
+          "time": "21:00",
+          "channel": "SVT24",
+          "teams": "Skottland – Ungern",
+          "start_time": "20:50"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-24",
+      "round": "3",
+      "matches": [
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Kroatien – Italien"
+        },
+        {
+          "time": "21:00",
+          "channel": "TV4/TV4 Sportkanalen",
+          "teams": "Albanien – Spanien"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-25",
+      "round": "3",
+      "matches": [
+        {
+          "time": "18:00",
+          "channel": "TV4/TV4 Sportkanalen",
+          "teams": "Nederländerna – Österrike"
+        },
+        {
+          "time": "18:00",
+          "channel": "TV4",
+          "teams": "Frankrike – Polen"
+        },
+        {
+          "time": "21:00",
+          "channel": "SVT2/SVT1",
+          "teams": "England – Slovenien",
+          "start_time": "20:00"
+        },
+        {
+          "time": "21:00",
+          "channel": "SVT24",
+          "teams": "Danmark – Serbien",
+          "start_time": "20:55"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-26",
+      "round": "3",
+      "matches": [
+        {
+          "time": "18:00",
+          "channel": "SVT Play",
+          "teams": "Slovakien – Rumänien",
+          "start_time": "17:50"
+        },
+        {
+          "time": "18:00",
+          "channel": "SVT1/SVT2/Kunskapskanalen",
+          "teams": "Ukraina – Belgien",
+          "start_time": "17:30"
+        },
+        {
+          "time": "21:00",
+          "channel": "TV4/TV4 Sportkanalen",
+          "teams": "Georgien – Portugal"
+        },
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Tjeckien – Turkiet"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-29",
+      "round": "Åttondelsfinaler",
+      "matches": [
+        {
+          "time": "18:00",
+          "channel": "SVT2",
+          "teams": "Åttondelsfinal 1, tvåa grupp A – tvåa grupp B",
+          "start_time": "17:00"
+        },
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Åttondelsfinal 2, etta grupp A – tvåa grupp C"
+        }
+      ]
+    },
+    {
+      "date": "2024-06-30",
+      "round": "Åttondelsfinaler",
+      "matches": [
+        {
+          "time": "18:00",
+          "channel": "SVT1/2",
+          "teams": "Åttondelsfinal 3, etta grupp C – trea grupp D/E/F",
+          "start_time": "17:00"
+        },
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Åttondelsfinal 4, etta grupp B – trea grupp A/D/E/F"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-01",
+      "round": "Åttondelsfinaler",
+      "matches": [
+        {
+          "time": "18:00",
+          "channel": "TV4",
+          "teams": "Åttondelsfinal 5, tvåa grupp D – tvåa grupp E"
+        },
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Åttondelsfinal 6, etta grupp F – trea grupp A/B/C"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-02",
+      "round": "Åttondelsfinaler",
+      "matches": [
+        {
+          "time": "18:00",
+          "channel": "SVT1/2",
+          "teams": "Åttondelsfinal 7, etta grupp E – trea grupp A/B/C/D",
+          "start_time": "17:00"
+        },
+        {
+          "time": "21:00",
+          "channel": "SVT1",
+          "teams": "Åttondelsfinal 8, etta grupp D – tvåa grupp F"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-05",
+      "round": "Kvartsfinaler",
+      "matches": [
+        {
+          "time": "18:00",
+          "channel": "TV4",
+          "teams": "Kvartsfinal 1. Vinnare åttondelsfinal 4 – vinnare åttondelsfinal 2"
+        },
+        {
+          "time": "21:00",
+          "channel": "SVT1",
+          "teams": "Kvartsfinal 2. Vinnare åttondelsfinal 6 – vinnare åttondelsfinal 5",
+          "start_time": "20:00"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-06",
+      "round": "Kvartsfinaler",
+      "matches": [
+        {
+          "time": "18:00",
+          "channel": "SVT2",
+          "teams": "Kvartsfinal 3. Vinnare åttondelsfinal 3 – vinnare åttondelsfinal 1",
+          "start_time": "17:00"
+        },
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Kvartsfinal 4. Vinnare åttondelsfinal 7 – vinnare åttondelsfinal 8"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-09",
+      "round": "Semifinaler",
+      "matches": [
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Semifinal 1. Vinnare kvartsfinal 1 – vinnare kvartsfinal 2"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-10",
+      "round": "Semifinaler",
+      "matches": [
+        {
+          "time": "21:00",
+          "channel": "SVT1",
+          "teams": "Semifinal 2. Vinnare kvartsfinal 3 – vinnare kvartsfinal 4",
+          "start_time": "20:00"
+        }
+      ]
+    },
+    {
+      "date": "2024-07-14",
+      "round": "Final",
+      "matches": [
+        {
+          "time": "21:00",
+          "channel": "TV4",
+          "teams": "Vinnare semifinal 1 – vinnare semifinal 2"
+        }
+      ]
+    }
+  ]
+}
